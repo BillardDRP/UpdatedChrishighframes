@@ -12,7 +12,7 @@
 ### Mac:
 Navigate to <code>username/Library/Application Support/Steam/Steamapps/common/Team Fortress 2/cfg</code> and drop in autoexec.cfg
 
-### Windows, to come
+### Windows, idk
 
 # Make it work:
-After installing, open Steam and open your game library. Then right-click on Team Fortress 2 and click on properties
+After installing, open Steam and open your game library. Then right-click on Team Fortress 2 and click on properties and enter <code>-dxlevel 81 -full -w WIDTH -h HEIGHT -console -novid -useforcedmparms -noforcemaccel -noforcemspd</code> to if you play in fullscreen or <code>-dxlevel 81 -sw -w WIDTH -h HEIGHT -console -noborder -novid -useforcedmparms -noforcemaccel -noforcemspd</code> if you use windowed. Note: replace width/height with your screen res. Then launch/quit TF2 real quick
