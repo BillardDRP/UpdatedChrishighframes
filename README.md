@@ -1,7 +1,5 @@
 # UpdatedChris-Highframes
-<<<<<<< HEAD
 ###Chris' highframes updated with more cusomizations
-<br/>
 
 # Editing:
 ### You MUST use a code editor that does not format text, my recomendations are:
